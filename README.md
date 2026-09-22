@@ -1,2 +1,2 @@
-# MyLinux
-MyLinux is just a simple, minimal, and fast tool for just having a quick overview of your Linux PC or Laptop.
+# Linux Showcase
+Linux Showcase is just a simple, minimal, and fast tool for just having a quick overview of your Linux PC or Laptop.
